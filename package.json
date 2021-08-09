@@ -13,7 +13,7 @@
   "author": "IgnaciusDev",
   "license": "MIT",
   "scripts": {
-    "start": "node .",
+    "start": "node ./index.js",
     "dev": "nodemon ./index.js"
   },
   "devDependencies": {
